@@ -1,0 +1,21 @@
+name: ble_demo
+description: BLE demo project with Flutter.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.4.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  flutter_blue: ^0.6.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
