@@ -1,4 +1,4 @@
-# ble_demo
+# BLE Flutter Demo Project
 
 A new Flutter project.
 
